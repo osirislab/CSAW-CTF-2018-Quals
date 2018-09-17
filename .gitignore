@@ -1,0 +1,11 @@
+.vagrant
+.DS_STORE
+
+*.id0
+*.id1
+*.id2
+*.nam
+*.nam
+core
+
+.gdb_history
