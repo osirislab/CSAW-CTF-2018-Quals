@@ -1,6 +1,7 @@
-# Challenge name TODO
+# Not Protobuf
 
 Name: Not Protobuf  
+Author: Lense  
 Category: Forensics (also maybe RE)  
 Points: 400 (maybe 500?)  
 Description: I'm in this company's network and I've MITM'd this weird protocol between a dev client and server, but I can't figure out how it works. Connect to `DEV CLIENT IP:51966` and I'll send the client traffic to you. Forward it on to the dev server at `DEV SERVER IP:51966` to figure out what's going on. Once you're ready, hit up the prod server at `PROD SERVER IP:51966` which should have a flag for you.  
